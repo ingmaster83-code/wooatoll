@@ -33,6 +33,7 @@ COUPANG_DISCLOSURE = '<p style="margin:6px 0 0;font-size:.68rem;opacity:.5;">이
 def head_common(root):
     return f"""<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="naver-site-verification" content="0c8baeb462bcd985d686fd0043e23fc99d64a665" />
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZGENFSXWC"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-9ZGENFSXWC');</script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={AD_CLIENT}" crossorigin="anonymous"></script>
