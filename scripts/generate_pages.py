@@ -21,7 +21,7 @@ AD_CLIENT = "ca-pub-6464921081676309"
 VCLASS_LABEL = ["1종(승용차)", "2종(중형차)", "3종(대형차)", "4종(대형화물)", "5종(대형화물)", "6종(경차)"]
 
 COUPANG_HTML = '''
-<div class="coupang-partners" style="margin:28px auto 0;max-width:680px;padding:0 16px;text-align:center;">
+<div class="coupang-partners" style="margin:28px auto 0;max-width:720px;padding:0 16px;text-align:center;overflow-x:auto;">
   <script src="https://ads-partners.coupang.com/g.js"></script>
   <script>
     new PartnersCoupang.G({"id":980427,"trackingCode":"AF5600192","subId":"toll","template":"carousel","width":"680","height":"140"});
